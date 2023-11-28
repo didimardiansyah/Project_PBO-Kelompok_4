@@ -12,8 +12,8 @@ Members name:
 - The APP can connect to the local server
 - The APP can make user chat with other client in the server
 - The APP can send a picture to the server and client can receive the picture
-- The received image can be shown in chat frame
-- The user can chat with another user in private
+- The received image can be shown in chat windows
+- The user can chat with another user in private using tag
 - The APP can view the online member in server
 
 ## Requirements Library
