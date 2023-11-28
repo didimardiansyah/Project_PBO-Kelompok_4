@@ -12,6 +12,7 @@ Members name:
 
 #### Class Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASS_DIAGRAM.drawio.png)
+CLASS_DIAGRAM.drawio.png
 
 #### Sequence Diagram from code
 ##### Fitur Chat
